@@ -1,0 +1,27 @@
+{
+  "name": "@activitree/prerender-redis-cache",
+  "version": "0.2.8",
+  "description": "Prerender plugin for Redis caching",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/activitree/prerender-redis.git"
+  },
+  "keywords": [
+    "prerender",
+    "redis",
+    "cache"
+  ],
+  "author": "Jonathan Bennett",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/activitree/prerender-redis/issues"
+  },
+  "homepage": "https://github.com/activitree/prerender-redis",
+  "dependencies": {
+    "redis": "^4.6.7"
+  }
+}
